@@ -6,7 +6,7 @@ def print_header():
    
     header = """
     ==============================================
-             Navigo Tool by Padayali-JD
+             Navigo Tool by Kiran
     ==============================================
     A professional tool to calculate API endpoints
     ==============================================
